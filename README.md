@@ -28,4 +28,4 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-Run the Jupyter Notebook and explore recommendations.
+Run the Colab Notebook and explore recommendations.
